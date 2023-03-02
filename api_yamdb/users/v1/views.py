@@ -11,7 +11,6 @@ from rest_framework.pagination import PageNumberPagination
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import AccessToken, RefreshToken
-
 from users.models import User
 from users.v1.serializers import MeSerializer, TokenSerializer, UserSerializer
 

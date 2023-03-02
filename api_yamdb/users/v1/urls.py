@@ -2,7 +2,6 @@
 
 from django.urls import include, path
 from rest_framework import routers
-
 from users.v1.views import UserViewSet, send_confirmation_code, send_token
 
 router_v1 = routers.DefaultRouter()
