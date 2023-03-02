@@ -65,17 +65,17 @@ DB_PORT=5432
 
 1. Клонируйте репозиторий.
 ```
-https://github.com/SleekHarpy/infra_sp2.git
+https://github.com/SleekHarpy/yamdb_final.git
 ```
 
 2. Перейдити в папку infra и запустите docker-compose.yaml (при установленном и запущенном Docker)
 ```
-cd infra_sp2/infra
+cd yamdb_final/infra
 ```
 
 Образ проекта на DockerHub
 ```
-docker pull rtlistate/yamdb
+docker pull rtlistate/yamdb_final
 ```
 
 3. Запустите docker-compose.yaml (при установленном и запущенном Docker)
