@@ -1,5 +1,5 @@
 # yamdb_final
-![workflow](https://github.com/SleekHarpy/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![workflow](https://github.com/SleekHarpy/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
 ### Технологии:
 ![Python](https://img.shields.io/badge/Python-3.7-green)
