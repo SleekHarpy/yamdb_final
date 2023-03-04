@@ -1,6 +1,9 @@
 # yamdb_final
 ![workflow](https://github.com/SleekHarpy/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
+Документация проекта:
+http://51.250.10.2/redoc/
+
 ### Технологии:
 ![Python](https://img.shields.io/badge/Python-3.7-green)
 ![Django](https://img.shields.io/badge/Django-2.2.16-green)
